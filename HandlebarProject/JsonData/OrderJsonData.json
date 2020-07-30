@@ -1,0 +1,171 @@
+[
+  {
+    "UserName": "Shubham123",
+    "OrderNo": "1",
+    "OrderDate": "26-07-2020",
+    "Status": "In-Process",
+    "TotalAmount": "1000",
+    "TotalQty": "10"
+  },
+  {
+    "UserName": "Shubham123",
+    "OrderNo": "2",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "900",
+    "TotalQty": "12"
+  },
+  {
+    "UserName": "Amit20",
+    "OrderNo": "3",
+    "OrderDate": "25-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "1900",
+    "TotalQty": "20"
+  },
+  {
+    "UserName": "Amit20",
+    "OrderNo": "4",
+    "OrderDate": "26-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "1200",
+    "TotalQty": "10"
+  },
+  {
+    "UserName": "Sushil1990",
+    "OrderNo": "5",
+    "OrderDate": "26-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "1300",
+    "TotalQty": "13"
+  },
+  {
+    "UserName": "Sushil1990",
+    "OrderNo": "6",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1500",
+    "TotalQty": "10"
+  },
+  {
+    "UserName": "Sushil1990",
+    "OrderNo": "7",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1500",
+    "TotalQty": "10"
+  },
+  {
+    "UserName": "Tushar1993",
+    "OrderNo": "8",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1500",
+    "TotalQty": "10"
+  },
+  {
+    "UserName": "Tushar1993",
+    "OrderNo": "9",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "2500",
+    "TotalQty": "18"
+  },
+  {
+    "UserName": "Tushar1993",
+    "OrderNo": "10",
+    "OrderDate": "26-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "1800",
+    "TotalQty": "9"
+  },
+  {
+    "UserName": "Tushar1993",
+    "OrderNo": "11",
+    "OrderDate": "24-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1800",
+    "TotalQty": "9"
+  },
+  {
+    "UserName": "Sumit456",
+    "OrderNo": "12",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "800",
+    "TotalQty": "7"
+  },
+  {
+    "UserName": "Sumit456",
+    "OrderNo": "13",
+    "OrderDate": "25-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "800",
+    "TotalQty": "7"
+  },
+  {
+    "UserName": "Sumit456",
+    "OrderNo": "14",
+    "OrderDate": "26-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1280",
+    "TotalQty": "14"
+  },
+  {
+    "UserName": "Umesh86",
+    "OrderNo": "15",
+    "OrderDate": "18-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "980",
+    "TotalQty": "6"
+  },
+  {
+    "UserName": "Umesh86",
+    "OrderNo": "16",
+    "OrderDate": "08-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "2980",
+    "TotalQty": "23"
+  },
+  {
+    "UserName": "Umesh86",
+    "OrderNo": "17",
+    "OrderDate": "26-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "2080",
+    "TotalQty": "13"
+  },
+  {
+    "UserName": "Sunny987",
+    "OrderNo": "18",
+    "OrderDate": "01-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "2080",
+    "TotalQty": "13"
+  },
+  {
+    "UserName": "Sunny987",
+    "OrderNo": "19",
+    "OrderDate": "12-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "1980",
+    "TotalQty": "21"
+  },
+  {
+    "UserName": "Sunny987",
+    "OrderNo": "20",
+    "OrderDate": "12-07-2020",
+    "Status": "Deliverd",
+    "TotalAmount": "980",
+    "TotalQty": "9"
+  },
+  {
+    "UserName": "Sunny987",
+    "OrderNo": "21",
+    "OrderDate": "26-07-2020",
+    "Status": "In-process",
+    "TotalAmount": "1600",
+    "TotalQty": "16"
+  }
+]
+
